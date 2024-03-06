@@ -2116,6 +2116,7 @@ header .logo:hover {
 
 	.right-menu.left #topmenu .menu > li {
 		padding: 30px 0;
+		padding-left: 20px;
 	}
 
 	.right-menu.left #topmenu .sub-menu {
