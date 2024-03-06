@@ -328,7 +328,8 @@
     color: #222;
     opacity: .6;
     margin-top: 20px;
-    transition: all 350ms ease
+    transition: all 350ms ease;
+    text-align: justify;
 }
 
 .services.default:hover {
@@ -541,8 +542,11 @@
     color: #999999;
     font-size: 14px;
     line-height: 1.71;
-    letter-spacing: .2px
+    letter-spacing: .2px;
+    text-align: justify;
 }
+
+
 
 .services.classic_slider .content-slide a {
     margin-top: 30px
